@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "3559e91bfd3e6a8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1aa1b30788138cfb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "projects/spotify-together/websocket events.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "206ec7b31b3eaaac",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b1eed713a0d3b2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a29234e89b4d79f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "230e8eff8b2f1028",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0f0c0be1d1e98ed3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ee30b7d25822d2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e7adcadaf150f81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "projects/spotify-together/websocket events.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1aa1b30788138cfb",
+  "lastOpenFiles": [
+    "projects/spotify-together/websocket events.md",
+    "projects/spotify-together/application design.md",
+    "myfirstnote.md"
+  ]
+}
